@@ -18,6 +18,7 @@ static struct {
     {.ssid = "OTA", .password = "12345678"},
     {.ssid = "DAP", .password = "12345678"},
     {.ssid = "Hoang Hai", .password = "12345678"},
+    {.ssid = "ptn209b3", .password = "ptn209b3@"},
     // Add your WAP like this:
     // {.ssid = "your ssid", .password = "your password"},
 };
