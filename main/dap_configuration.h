@@ -53,6 +53,6 @@
  * Only available for SWD.
  *
  */
-#define USE_FORCE_SYSRESETREQ_AFTER_FLASH 0
+#define USE_FORCE_SYSRESETREQ_AFTER_FLASH 1
 
 #endif
